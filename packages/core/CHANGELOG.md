@@ -1,5 +1,11 @@
 # @usedapp/core
 
+## 0.12.9
+
+### Patch Changes
+
+- 3d4cf2c: Fix metamask auto-connect behaviour
+
 ## 0.12.8
 
 ### Patch Changes
